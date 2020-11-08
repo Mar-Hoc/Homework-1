@@ -16,3 +16,13 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+###Function description
+The homework code consits of 3 functions. Each function does a simple math operation.
+
+The function "scalar" calculates the scalar product of two vectors. The vectors must be given to the function as list or tupel.
+
+The function "add_frac" sums up two fractions. The four input parameters of the function are (numerator of fraction 1, denominator of fraction 1,
+numerator of fraction 2, denominator of fraction 2).
+
+The function "ethiopian_calc" multiplies two numbers with the ethiopian way.
