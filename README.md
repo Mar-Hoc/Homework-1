@@ -17,7 +17,8 @@ limitations under the License.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-###Function description
+##Function description
+
 The homework code consits of 3 functions. Each function does a simple math operation.
 
 The function "scalar" calculates the scalar product of two vectors. The vectors must be given to the function as list or tupel.
